@@ -33,5 +33,5 @@
   </a>
 
 <h3>Goals:</h3>
-<p>Master a strong technical foundation essential for a professional working enivronment, focusing on JS frameworks and responsive design</p>
+<h4>Master a strong technical foundation essential for a professional working enivronment, focusing on JS frameworks and responsive design</h4>
 </div>
